@@ -1,3 +1,4 @@
+@import './utils/fonts';
 @import './utils/variables';
 @import './base/reset';
 @import './base/common';
@@ -9,14 +10,14 @@
 @import './components/btn';
 @import './components/soc-list';
 
-@import './components/page-header';
-@import './components/footer';
+@import './layout/page-header';
+@import './layout/footer';
 
-@import './components/hero';
-@import './components/feature';
-@import './components/about';
-@import './components/team';
-@import './components/client';
-@import './components/modal';
+@import './layout/hero';
+@import './layout/feature';
+@import './layout/about';
+@import './layout/team';
+@import './layout/client';
+@import './layout/modal';
 
-@import './components/portfolio';
+@import './layout/portfolio';
